@@ -1,0 +1,3 @@
+Utilizamos a pagina pessoal do nosso professor de programação (Guilherme e Samuel) para se basear em exercícios
+decidi fazer algumas questões sem enunciados pois a lista e todo o conteúdo aqui presente foi feito para nos ajudar no estudo em c
+Os enunciados estão em: https://agostinhobritojr.github.io/curso/algoritmos/lista2.html
